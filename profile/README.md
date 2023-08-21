@@ -1,5 +1,6 @@
 # Robotic Lessing Gymnasium Neu-Ulm Germany
-Here we post our open source stuff we crated at our Robitc AG
+Here we post our open source stuff we crated at [Technulgy: Robotics Club Lessing Gymnasium Neu-Ulm](https://technulgy.com).   
+For any inquiries: [contact@technulgy.com](mailto:contact@technulgy.com).
 <br> 
 <br>
 Disclaimer: 
